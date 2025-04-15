@@ -2,15 +2,22 @@
 
 An application to translate American Sign Language into standard English text.
 
+This project was completed as part of the Project-Based Learning (PBL) contest at BMS Institute of Technology and Management, Bengaluru, India.
+
+**Team Members:**
+1. Merlyn Mercylona Maki Reddy
+2. Aishwarya M
+
 The goal of this project was to build a sign language translator. That is, an application capable of interpreting the actions made by one user in video form, and translating that to text. We used the American Sign language for this purpose, to interpret alphabets.
 
 ### Dataset source:
-
-- https://www.kaggle.com/grassknoted/asl-alphabet
+- [ASL Alphabet Dataset – Kaggle](https://www.kaggle.com/grassknoted/asl-alphabet)
 
 ### Technology used:
 
-- Python, openCV (for getting input video and preprocessing it), Tensorflow (for the convolution model)
+- **Python**
+- **OpenCV** – for capturing video and preprocessing
+- **TensorFlow** – for building and training the convolutional model
 
 ### How it works:
 
@@ -30,4 +37,4 @@ The asl_abc video depict the model in action, on an youtube video (https://www.y
 
 ### Learnings:
 
-Make sure the preprocessing in train dataset matches as much as possible to the test dataset
+- Make sure the preprocessing in train dataset matches as much as possible to the test dataset
