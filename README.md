@@ -5,8 +5,8 @@ An application to translate American Sign Language into standard English text.
 This project was completed as part of the Project-Based Learning (PBL) contest at BMS Institute of Technology and Management, Bengaluru, India.
 
 **Team Members:**
-1. Merlyn Mercylona Maki Reddy
-2. Aishwarya M
+1. Aishwarya M
+2. Merlyn Mercylona Maki Reddy
 
 The goal of this project was to build a sign language translator. That is, an application capable of interpreting the actions made by one user in video form, and translating that to text. We used the American Sign language for this purpose, to interpret alphabets.
 
@@ -26,7 +26,7 @@ The goal of this project was to build a sign language translator. That is, an ap
 3. Pass this preprocessed image to the model to predict the action
 4. Display the prediction text on screen along with video
 
-The jupyter notebook contains the code for final model used and F1 scores for various classes.
+The jupyter notebook contains the code for final model used and F1 scores for various classes. \n
 The asl_abc video depict the model in action, on an youtube video (https://www.youtube.com/watch?v=pDfnf96qz_4)
 
 ### Results:
